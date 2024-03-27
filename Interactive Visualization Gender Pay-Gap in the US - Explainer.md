@@ -1,6 +1,6 @@
 # Explorer: Gender Disparities in the US Labor Market
 
-![Screenshot](screenshot_placeholder.png)
+<img width="451" alt="image" src="https://github.com/ChrisLu0/DataVis/assets/145377410/58763357-698a-4c6a-b79e-518145eb575f">
 
 ## Dataset Overview
 
